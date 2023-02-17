@@ -149,6 +149,7 @@ ul {
 }
 
 .top__text .top__btns {
+  display: flex;
 }
 .top__column-img {
   display: flex;
